@@ -9,4 +9,4 @@
 - Audio visualizer
 - Chromecast support
 
-Clone project with
+Clone project with https://github.com/Urvashiroy21/Ui-music
